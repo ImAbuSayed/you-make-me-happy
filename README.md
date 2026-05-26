@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/you-make-me-happy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For You Make Me Happy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-make-me-happy/) |
+| **Get License** | [Get a Licensing Quote for You Make Me Happy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-make-me-happy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `389c7f54e45cbb637a0ab46ebf9c2ef43ae9d4e11121d4e684f98ddcf00aa1eb` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
